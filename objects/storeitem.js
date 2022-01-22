@@ -29,14 +29,14 @@ exports.store_item = [
     },
     {
         name: "Frisky",
-        price: 5000,
+        price: 4000,
         icon: "<:Frisky:906573844872060968>",
         id: "dinofrisky",
         type: "dino"
     },
     {
         name: "Jefly",
-        price: 5000,
+        price: 2000,
         icon: "<:Jefly:869805313027616788>",
         id: "dinojefly",
         type: "dino"
@@ -50,14 +50,14 @@ exports.store_item = [
     },
     {
         name: "ZAP",
-        price: 15000,
+        price: 5000,
         icon: "<:Zap:869805587343487088>",
         id: "dinozap",
         type: "dino"
     },
     {
         name: "Mirga",
-        price: 30000,
+        price: 8000,
         icon: "<:Mirga:906424805954314252>",
         id: "dinomirga",
         type: "dino"
@@ -71,7 +71,7 @@ exports.store_item = [
     },
     {
         name: "Margarin",
-        price: 20000,
+        price: 5000,
         icon: "<:Margarin:869805363640283146>",
         id: "dinomargerin",
         type: "dino"
@@ -83,40 +83,39 @@ exports.store_item = [
         id: "dinosteldro05",
         type: "dino"
     },
-  {
+    {
         name: "Venzy",
         price: 10000,
-        icon: "<venzy:869805562060218388>",
+        icon: "<:venzy:869805562060218388>",
         id: "dinovenzy01",
         type: "dino"
     },
-  {
+    {
         name: "Groduk",
         price: 10000,
         icon: "<:Groduk:869805274670727179>",
         id: "dinogorduk01",
         type: "dino"
     },
-  {
+    {
         name: "Dark Voint",
         price: 20000,
         icon: "<:DarkVoint:869805167019704351>",
         id: "darkvoint07",
         type: "dino"
     },
-  {
+    {
         name: "Frizy",
         price: 10000,
         icon: "<:frizy:906424805706833961>",
         id: "dinofrizy11",
         type: "dino"
     },
-  {
+    {
         name: "Ellenora",
         price: 10000,
         icon: "<:Ellenora:906425773555060787>",
         id: "ellenora12",
         type: "dino"
     },
-},
-  
+];
