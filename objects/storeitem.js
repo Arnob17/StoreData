@@ -118,4 +118,12 @@ exports.store_item = [
         id: "ellenora12",
         type: "dino"
     },
+    },
+    {
+        name: "Berry",
+        price: 10000,
+        icon: "<:berry:911264966038921246>",
+        id: "berry15",
+        type: "dino"
+    },
 ];
