@@ -102,5 +102,13 @@ exports.dino_static = [
         aboutme: "Frisky is cool and swaggy, in fact he is the chillest dino who has no fear of danger. He enjoys his life in the beach by surfing in the water and drinking juice",
         type: "Normal",
         picture: "https://cdn.discordapp.com/attachments/906068154961260585/908333937753989220/Dino.png"
+    },
+    {
+        name: "Berry",
+        id: "berry15",
+        rarity: '🟣 Epic',
+        aboutme: 'Berry is a ice-type snowy Dino, he has a special glass\nHis special power is he can predict next move of his enemy!',
+        type: "Ice",
+        picture: "https://images-ext-2.discordapp.net/external/e_iAliMkXxaAfUjYQwQdT12lXfE8TY3SO8lYRiFTzDk/%3Fwidth%3D186%26height%3D225/https/media.discordapp.net/attachments/730690876367700009/934488313581158400/unknown.png?width=140&height=169"
     }
 ]
